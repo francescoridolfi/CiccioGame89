@@ -4,7 +4,7 @@ from random import randint
 pygame.init()
 
 
-frasi = ["Dio Sasso","Dio Mattone","Ti denuncio","Osanna eh"]
+frasi = ["Dio Sasso","Dio Mattone","Ti denuncio","Osanna eh", "Lo faccio per voi"]
 
 img_path = "Images/"
 font_path = "Fonts/"
